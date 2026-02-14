@@ -1,0 +1,7 @@
+# Python dependencies for Roblox launcher application
+
+# You can specify your dependencies here
+
+# Example dependencies
+flask==2.0.1
+requests==2.25.1
